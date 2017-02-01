@@ -1,0 +1,59 @@
+/* ABOUT PAGE STYLES */
+/* padding on both sides of journal page */
+#aboutMain {
+  padding-right: 15%;
+  padding-left: 15%;
+}
+/* larger font and padding on each side of journal entrys */
+#aboutInfo {
+  font-size: 18px;
+  line-height: 2em;
+}
+/* journal entry heading */
+h4 {
+  color:#F1831D;
+}
+/* link styles */
+#githubLink {
+  color: #2EAFB0;
+  text-decoration: none;  /* takes out underline */
+  }
+/* hovering over link */
+#githubLink:hover {
+  color: #5BB12F;
+  font-size: 18px;
+  text-decoration: none
+} 
+
+/*/* link styles */
+#linkedinLink {
+  color: #2EAFB0;
+  text-decoration: none;  /* takes out underline */
+  }
+/* hovering over link */
+#linkedinLink:hover {
+  color: #5BB12F;
+  font-size: 18px;
+  text-decoration: none
+} 
+
+/*/* link styles */
+#journalPage {
+  color: #2EAFB0;
+  text-decoration: none;  /* takes out underline */
+  }
+/* hovering over link */
+#journalPage:hover {
+  color: #5BB12F;
+  font-size: 18px;
+  text-decoration: none
+} 
+/* profile pic */
+.profile-photo {
+   display: block;
+  max-width: 280px;
+  margin: 0 auto 30px;
+  border-radius: 100%;
+}
+
+
