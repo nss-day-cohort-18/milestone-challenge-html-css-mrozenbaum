@@ -1,0 +1,30 @@
+/* STYLES FOR JOURNAL PAGE */
+/* padding on both sides of journal page */
+.journalPage {
+  padding-right: 15%;
+  padding-left: 15%;
+}
+/* larger font and padding on each side of journal entrys */
+.journalEntry {
+  font-size: 18px;
+  line-height: 2em;
+}
+/* journal entry heading */
+h4 {
+  color:#F1831D;
+}
+/* journal intro */
+.journalIntro {
+  font-weight: bold;
+}
+/*/* link styles */
+.nssLink {
+  color: #2EAFB0;
+  text-decoration: none;  /* takes out underline */
+  }
+/* hovering over link */
+.nssLink:hover {
+  color: #5BB12F;
+  font-size: 18px;
+  text-decoration: none
+} 
